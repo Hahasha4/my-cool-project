@@ -1,3 +1,3 @@
 #!/usr/bin/python
-print("Bonjour, le Monde")
+print("Guten morning")
 # This script prints a greeting in multiple languages.
