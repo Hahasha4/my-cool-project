@@ -1,1 +1,1 @@
-# my-cool-project
+Welcome to my-cool-project!
